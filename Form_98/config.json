@@ -1,0 +1,23 @@
+{
+    "template_json": {
+        "DONEE’S TIN": "",
+        "DONOR’S name": "",
+        "City or town, state or province, country, and ZIP or foreign postal code": "",
+        "DONEE’S name, street address, city or town, state or province, country, ZIP or foreign postal code, and telephone no.": "",
+        "Street address (including apt. no.)": "",
+        "DONOR’S TIN": "",
+        "6b Value of goods and services provided in exchange for the vehicle": "",
+        "2b Year": "",
+        "1 Date of contribution": "",
+        "2a Odometer mileage": "",
+        "2c Make": "",
+        "3 Vehicle or other identification number": "",
+        "4b Date of sale": "",
+        "4c Gross proceeds from sale (see instructions)": "",
+        "2d Model": "",
+        "For calendar year": ""
+    },
+    "threshold_contour" : 0.9,
+    "threshold_centroid" : 90,
+    "page_number" : 1
+}
